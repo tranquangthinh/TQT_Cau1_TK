@@ -104,6 +104,12 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Đăng nhập" />
+        <Button
+            android:id="@+id/btnThoat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Thoát" />
 
         <TextView
             android:id="@+id/textView31"
